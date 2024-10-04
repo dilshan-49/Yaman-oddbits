@@ -154,4 +154,4 @@ body {
 .hide-scrollbar {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
-}
+}ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
